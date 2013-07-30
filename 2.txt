@@ -1,0 +1,2 @@
+This file is for all functions
+Like public and private
